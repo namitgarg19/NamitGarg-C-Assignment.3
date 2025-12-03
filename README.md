@@ -55,12 +55,16 @@ This makes animation **smooth and flicker-free**.
 ## How to Play
 
 **Controls:**  
-- Move Up: Arrow Up / W  
-- Move Down: Arrow Down / S  
-- Move Left: Arrow Left / A  
-- Move Right: Arrow Right / D  
-- Restart: R  
-- Exit: Any Other Key  
+
+| Action | Keys |
+|--------|------|
+| Move Up | Arrow Up / `A` |
+| Move Down | Arrow Down / `D` |
+| Move Left | Left Arrow / `A` |
+| Move Right | Right Arrow / `D` |
+| Restart Game (after Game Over) | `R` |
+| Exit Game (after Game Over) | Any other key |
+
 
 **Gameplay Steps:**  
 1. Start the game and select a difficulty level.  
